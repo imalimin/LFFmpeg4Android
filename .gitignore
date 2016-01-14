@@ -1,3 +1,8 @@
+/local.properties
+/.idea
+.DS_Store
+*.iml
+
 # Built application files
 *.apk
 *.ap_
@@ -25,3 +30,10 @@ proguard/
 
 # Log Files
 *.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
