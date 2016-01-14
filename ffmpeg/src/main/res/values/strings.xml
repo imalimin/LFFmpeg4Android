@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">LFFmpeg4Android</string>
+    <string name="app_name">ffmpeg</string>
     <string name="action_settings">Settings</string>
 </resources>
